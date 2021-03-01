@@ -1,0 +1,3 @@
+The mean is 121.8
+The median is 62.0
+The Standard Deviation is 224.0
